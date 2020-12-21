@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592273300478",
+    "project_id": "demologintiki",
+    "storage_bucket": "demologintiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592273300478:android:5f68b8dfa560bb6566beaf",
+        "android_client_info": {
+          "package_name": "com.chungduc.ute.logintiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592273300478-g12e7e3jqvpsk6i03qv26qk1v7iqhmd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3w3y4MN2_-Ug57Owz3zbtIDGF1aoFw3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592273300478-g12e7e3jqvpsk6i03qv26qk1v7iqhmd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
